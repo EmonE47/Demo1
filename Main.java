@@ -14,5 +14,6 @@ public class Main {
         System.out.println("Your name is: " + name + greeting);
         myScanner.close();
         System.out.println("Emon is name of Emon");
+        System.out.println("Emon is name of Ahsanul Islam Emon");
     }
 }
