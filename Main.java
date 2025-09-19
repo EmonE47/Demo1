@@ -13,5 +13,6 @@ public class Main {
         String greeting = myScanner.nextLine();
         System.out.println("Your name is: " + name + greeting);
         myScanner.close();
+        System.out.println("Emon is name of Emon");
     }
 }
